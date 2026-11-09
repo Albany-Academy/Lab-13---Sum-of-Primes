@@ -1,6 +1,6 @@
-# Lab-14---Sum-of-Primes
+# Lab-13---Sum-of-Primes
 
-In this lab, **you may use any of your methods from Lab 13**.
+In this lab, **you may use any of your methods from Lab 12**.
 The goal of this lab is to have the user enter two whole numbers – a first and a last, with first < last.  (Note:  You can assume that the user enters the numbers correctly.  See bonus below.)
 
 
